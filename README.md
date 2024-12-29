@@ -1,8 +1,6 @@
  👋 Hi, I'm Felix
 
- 👀 I work at Shosho as an Interaction programmer
-
- 🌱 We work mainly with Unity/C#, but not only ;D
+ 👀 I work at Shosho as an Interaction programmer 
 
 <br>
 
